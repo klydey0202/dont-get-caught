@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://b1gx7oejsu8v1"]
+
+[ext_resource type="Texture2D" uid="uid://btmunnulqprac" path="res://Assets/sample-house.jpg" id="1_lxcaj"]
+
+[node name="Node" type="Node"]
+
+[node name="Sample-house" type="Sprite2D" parent="."]
+position = Vector2(583, 323)
+scale = Vector2(-0.876844, 0.662035)
+texture = ExtResource("1_lxcaj")
